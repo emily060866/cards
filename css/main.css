@@ -33,6 +33,11 @@ html {
   font-size: 1.125rem;
 }
 
+.cards strong {
+  display: block;
+  margin-bottom: 1rem;
+}
+
 .cards dl {
   margin-bottom: 1rem;
 }
@@ -50,7 +55,7 @@ html {
 }
 
 .cards div {
-  text-align: cenrer;
+  text-align: center;
 }
 
 .cards a {
